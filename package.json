@@ -1,0 +1,15 @@
+{
+  "name": "volar-pnp-test",
+  "packageManager": "yarn@3.2.3",
+  "private": true,
+  "volta": {
+    "node": "18.9.1",
+    "yarn": "1.22.19"
+  },
+  "dependencies": {
+    "vue": "^3.2.40"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
